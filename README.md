@@ -54,11 +54,9 @@
 | ddH₂O | — | — | 440 mL |
 | **總體積** | — | — | **500 mL** |
 
-•	SDS-free PEB 是給 CTAB–NaCl 方法使用，可避免界面活性劑間的沉澱反應。  
-
-•	EDTA 可螯合二價金屬離子，抑制核酸酶活性並保護 DNA。  
-
-•	Tris-HCl 提供穩定的緩衝環境以維持 DNA 穩定性。  
+1. SDS-free PEB 是給 CTAB–NaCl 方法使用，可避免界面活性劑間的沉澱反應。
+2. EDTA 可螯合二價金屬離子，抑制核酸酶活性並保護 DNA。
+3. Tris-HCl 提供穩定的緩衝環境以維持 DNA 穩定性。  
 
  
 # 1 M Tris HCl pH 8.0，500 mL
