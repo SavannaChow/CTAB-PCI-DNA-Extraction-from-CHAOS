@@ -32,16 +32,16 @@
 # 5 M NaCl stock, 100 mL
 1. NaCl 29.22 g
 2. ddH2O to 100 mL
-先以約 60 到 70 mL ddH2O 溶解 NaCl，完全溶解後定容至 100 mL。
+3. 先以約 60 到 70 mL ddH2O 溶解 NaCl，完全溶解後定容至 100 mL。
 
 # 10% CTAB stock, 100 mL
 1. CTAB: 10.0 g
 2. ddH2O to 100 mL
-先以約 60 到 70 mL ddH2O 加熱至 60 到 65°C，分批加入 CTAB 並攪拌至完全溶解，最後定容至 100 mL。室溫保存，若析晶則使用前加熱回溶。
+3. 先以約 60 到 70 mL ddH2O 加熱至 60 到 65°C，分批加入 CTAB 並攪拌至完全溶解，最後定容至 100 mL。室溫保存，若析晶則使用前加熱回溶。
 
 # PEB (phenol extraction buffer)
-此版本僅含 Tris-HCl 與 EDTA，適用於需搭配 CTAB 的 DNA 抽取流程，以避免 SDS 與 CTAB 形成沉澱。
-PEB的Stock溶液的pH必須為8.0
+1.此版本僅含 Tris-HCl 與 EDTA，適用於需搭配 CTAB 的 DNA 抽取流程，以避免 SDS 與 CTAB 形成沉澱。
+2. PEB的Stock溶液的pH必須為8.0
 
 配製 500 mL PEB（不含 SDS）
 
