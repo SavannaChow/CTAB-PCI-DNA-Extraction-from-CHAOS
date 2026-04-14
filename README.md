@@ -1,6 +1,3 @@
-# CTAB-PCI-DNA-Extraction-from-CHAOS
-Using CTAB methods to extract DNA from CHAOS preserved coral tissues
-
 # CHAOS CTAB-PCI DNA extraction步驟
 1. 取2.0 tube, 加400uL PEB (SDS free) 到每個tube裡面，然後40uL的proteinase K
 2. 取珊瑚樣本的CHAOS 100uL加入pipette數次混均勻，然後incubation+ shake 60度C 1小時。
