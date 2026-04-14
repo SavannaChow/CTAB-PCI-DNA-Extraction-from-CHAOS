@@ -14,7 +14,7 @@
 3. Incubation完後取出，每一個管都先加入**269 uL** 的5M NaCl，記得pipette數次混均勻
 4. 再把每管加入10%的CTAB, **192uL**。pipette混均勻，**incubation + shake 30分鐘。**
 4. 取出後，加入**1000uL**的PCI (Phenol:Chloroform:Isoamyl Alcohol, 25:24:1 ratio)。
-5. 這時溶液已經接近2000uL tube上限，記得要蓋好蓋緊，然後放去TissueLyser的block裡混合，使用最低速3hz，1分鐘。或是你可以用手gently invert 3分鐘
+5. 這時溶液已經接近2000uL tube上限，記得要蓋好蓋緊，然後放去TissueLyser的block裡混合，使用最低速3hz，1分鐘。或是你可以用手gently invert 3分鐘。使用TissueLyzer記得他的rack裡面要墊衛生紙，這樣才能壓緊蓋子不會漏出來。
 6. 離心**14000rpm for 5 min**，記得要常溫，不要開到低溫，Hitachi那台離心機設定成25度。
 7. **換新的2.0 tube**，用pipette抽小心的取上層的水層出來到新的2.0 tube。快要接近中間那層的時候，**寧願留下一部分水層也不要抽到雜質為優先**。
 8. 再度加入**1000uL**的PCI，TissueLyser 3Hz一分鐘或是手動invert 3分鐘，然後常溫離 **14000rpm for 5 min**
