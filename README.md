@@ -41,7 +41,7 @@
    
 先以約 60 到 70 mL ddH2O 加熱至 60 到 65°C，分批加入 CTAB 並攪拌至完全溶解，最後定容至 100 mL。室溫保存，若析晶則使用前加熱回溶。
 
-# PEB (phenol extraction buffer)
+# SDS-free PEB (phenol extraction buffer)
 1.此版本僅含 Tris-HCl 與 EDTA，適用於需搭配 CTAB 的 DNA 抽取流程，以避免 SDS 與 CTAB 形成沉澱。  
 2. PEB的Stock溶液的pH必須為8.0  
 
