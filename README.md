@@ -1,5 +1,5 @@
 # 需要準備的材料：
-1. 5M NaCl，10% CTAB。CTAB會結晶，用之前要加熱65度C讓結晶消失才能用
+1. 5M NaCl與10% CTAB。CTAB會結晶，用之前要加熱65度C讓結晶消失才能用
 2. PEB-SDS free
 3. Proteinase K
 4. PCI & Chloroform
