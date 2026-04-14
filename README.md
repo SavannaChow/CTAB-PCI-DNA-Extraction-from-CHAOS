@@ -35,7 +35,7 @@ ddH2O to 100 mL
 先以約 60 到 70 mL ddH2O 溶解 NaCl，完全溶解後定容至 100 mL。
 
 # 10% CTAB stock, 100 mL
-CTAB 10.0 g
+CTAB: 10.0 g
 ddH2O to 100 mL
 先以約 60 到 70 mL ddH2O 加熱至 60 到 65°C，分批加入 CTAB 並攪拌至完全溶解，最後定容至 100 mL。室溫保存，若析晶則使用前加熱回溶。
 
