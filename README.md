@@ -32,18 +32,18 @@
 # 5 M NaCl stock, 100 mL
 1. NaCl 29.22 g
 2. ddH2O to 100 mL
-  先以約 60 到 70 mL ddH2O 溶解 NaCl，完全溶解後定容至 100 mL。
+   
+先以約 60 到 70 mL ddH2O 溶解 NaCl，完全溶解後定容至 100 mL。
 
 # 10% CTAB stock, 100 mL
 1. CTAB: 10.0 g
-2. ddH2O to 100 mL
-3. 先以約 60 到 70 mL ddH2O 加熱至 60 到 65°C，分批加入 CTAB 並攪拌至完全溶解，最後定容至 100 mL。室溫保存，若析晶則使用前加熱回溶。
+2. ddH2O to 100 ml
+   
+先以約 60 到 70 mL ddH2O 加熱至 60 到 65°C，分批加入 CTAB 並攪拌至完全溶解，最後定容至 100 mL。室溫保存，若析晶則使用前加熱回溶。
 
 # PEB (phenol extraction buffer)
-1.此版本僅含 Tris-HCl 與 EDTA，適用於需搭配 CTAB 的 DNA 抽取流程，以避免 SDS 與 CTAB 形成沉澱。
-2. PEB的Stock溶液的pH必須為8.0
-
-配製 500 mL PEB（不含 SDS）
+1.此版本僅含 Tris-HCl 與 EDTA，適用於需搭配 CTAB 的 DNA 抽取流程，以避免 SDS 與 CTAB 形成沉澱。  
+2. PEB的Stock溶液的pH必須為8.0  
 
 ### 配製 500 mL PEB（不含 SDS）
 
@@ -75,7 +75,7 @@
 5.	把溶液移到 500 mL 量瓶或量筒定容容器中。
 6.	用 ddH2O 補到最終體積 500 mL。
 7.	混勻。
-
+   
 注意： Tris 的 pH 會受溫度影響，所以最好在室溫下調 pH，不要趁很熱的時候調，不然放回室溫後 pH 會跑掉。
  
 # 0.5 M EDTA pH 8.0，500 mL
@@ -97,10 +97,10 @@
 8.	混勻。
    
 # 5 M NaOH，500 mL配法
-記得！！！一定是 NaOH 加到水裡，不要反過來！因為放熱很強，配大體積時更要慢慢加！
-NaOH 很腐蝕，配的時候要戴手套和護目鏡！
+記得！！！一定是 NaOH 加到水裡，不要反過來！因為放熱很強，配大體積時更要慢慢加！  
+NaOH 很腐蝕，配的時候要戴手套和護目鏡！  
 
-需要NaOH 100.0 g，ddH2O滅菌水
+需要NaOH 100.0 g，ddH2O滅菌水  
 
 (5 mol/L × 0.5 L × 40.00 g/mol = 100.0 g)
 
