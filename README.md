@@ -21,7 +21,7 @@
 9. 取出抽上層的水層到**新的1.5 tube**, 加入2倍體積的Isopropanol，Mix gently (just turn over repeatedly), DNA will visually appear(但通常啥都看不到)。
 10. 離心14000rpm for 25 min。*eppendorf放進去離心機的時候蓋子的方向要一致，這樣DNA pellet才會在同一個位置沉澱
 11. 離心完後倒掉isopropanol ，加**800 μl** 的**70% ethanol** for rinse。 輕輕的加入免得衝散DNA pellet，浸潤3分鐘吸收可能的殘留鹽分，然後再度離心**14000rmp 1分鐘**，然後倒掉ethanol。這個步驟需要做兩次來移除過量的鹽分。*記得eppendorf的方向要跟上一個步驟一致，免得一離心DNA pellet就移位。
-12. Air dry殘留的ethanol，但是不要過度乾燥，不然DNA會不好回溶，但也不能有ethanol殘留以免影響後面的PCR反應
+12. 倒掉ethanol後，tube底部就是DNA，Air dry殘留的ethanol，但是不要過度乾燥，不然DNA會不好回溶，但也不能有ethanol殘留以免影響後面的PCR反應
 13. Add 50μl of pre-heated TE(65度C)成為DNA stock。記得要給一點時間讓DNA溶解，不要立刻去測DNA。
 14. 跑膠檢查DNA quality：用0.8% Agarose / 100v 跑30分鐘。用 1uL的novel juice與2uL的DNA
 
