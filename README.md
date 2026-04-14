@@ -32,7 +32,7 @@
 # 5 M NaCl stock, 100 mL
 1. NaCl 29.22 g
 2. ddH2O to 100 mL
-3. 先以約 60 到 70 mL ddH2O 溶解 NaCl，完全溶解後定容至 100 mL。
+  先以約 60 到 70 mL ddH2O 溶解 NaCl，完全溶解後定容至 100 mL。
 
 # 10% CTAB stock, 100 mL
 1. CTAB: 10.0 g
