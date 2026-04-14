@@ -10,7 +10,7 @@
 1. 取2.0 tube, 加400uL PEB (SDS free) 到每個tube裡面，然後40uL的proteinase K
 2. 取珊瑚樣本的CHAOS 100uL加入pipette數次混均勻，然後incubation+ shake 60度C 1小時。
 - CHAOS如果有很濃稠的mucus, 用pipette繞圈抽吸把mucus與chaos水溶液打散混均勻，像是打散蛋清那樣，讓CHAOS與Mucus盡量混均勻再抽取。
-- CHAOS加進去tube時記得要pipette幾次讓PEB與CHAOS混均勻
+- 加進去tube時記得要pipette幾次讓PEB與CHAOS混均勻
 3. incubation完後取出，每一個管都先加入269uL 的5M NaCl，記得pipette數次混均勻
 4. 再把每管加入10%的CTAB 192uL，pipette混均勻，incubation + shake 30分鐘。
 4. 取出後，加入1000uL的PCI (Phenol:Chloroform:Isoamyl Alcohol, 25:24:1 ratio)。
