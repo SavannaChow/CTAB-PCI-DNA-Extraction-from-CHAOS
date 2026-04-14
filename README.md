@@ -1,3 +1,11 @@
+# 需要準備的材料：
+1. 5M NaCl，10% CTAB。CTAB會結晶，用之前要加熱65度C讓結晶消失才能用
+2. PEB-SDS free
+3. Proteinase K
+4. PCI & Chloroform
+5. 1000 uL與200 uL的tips，2.0與1.5的tube
+6. TE buffer，0.8 % Agarose gel，Novel Juice (dye)，lambda DNA ladder
+
 # CHAOS CTAB-PCI DNA extraction步驟
 1. 取2.0 tube, 加400uL PEB (SDS free) 到每個tube裡面，然後40uL的proteinase K
 2. 取珊瑚樣本的CHAOS 100uL加入pipette數次混均勻，然後incubation+ shake 60度C 1小時。
@@ -18,13 +26,8 @@
 跑膠檢查DNA quality：用0.8% Agarose / 100v 跑30分鐘。用 1uL的novel juice與2uL的DNA
 
 
-# 需要準備的材料：
-1. 5M NaCl，10% CTAB。CTAB會結晶，用之前要加熱65度C讓結晶消失才能用
-2. PEB-SDS free
-3. Proteinase K
-4. PCI & Chloroform
-5. 1000 uL與200 uL的tips，2.0與1.5的tube
-6. TE buffer，0.8 % Agarose gel，Novel Juice (dye)，lambda DNA ladder
+
+
  
 # 5 M NaCl stock, 100 mL
 NaCl 29.22 g
