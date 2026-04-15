@@ -15,10 +15,6 @@ The extraction buffer for plant DNA isolation consists of EDTA (20 mM), Tris-HCl
 Most of the polysaccharides were removed effectively in a single high-salt precipitation at 1.0-2.5 M NaCl. At 3.0 M NaCl, the salt precipitated out of solution
 - Fang G, Hammar S, Grumet R. A quick and inexpensive method for removing polysaccharides from plant genomic DNA. Biotechniques. 1992 Jul;13(1):52-4, 56. PMID: 1503775. https://pubmed.ncbi.nlm.nih.gov/1503775/
 
-The Function of CTAB : Cetyltrimethylammoniumbromide (CTAB)is a cationic detergentthat has the useful property of precipitating nucleic acids and acidic polysaccharides from solutions of low ionic strength.Under these conditions, proteins and neutral polysaccharides remain in solution.In solutions of high ionic strength,CTAB forms complexes with proteins and all but the most acidic polysaccharides,but will not precipitate nucleic acids (Jones and Walker 1963)
-
-The detergentis added to bacterialor celllysatesthat havebeen adjustedto high ionic strength(>0.7 M NaCl).Afterremovingthe CTAB/polysaccharide/proteicnomplexesby sequentialextractionwith chloroformand phenol, the genomicDNAis recoveredfrom the supernatantby precipitationwith isopropanolor ethanol (Jonesand Walker1963;Wilson1987)
-
 A CTAB–nucleic acid precipitate is formed when the NaCl concentration is reduced from 0.7 M to 0.35 M by the addition of one volume of 1× CTAB containing 50 mM Tris-HCl (pH 8.0) and 10 mM EDTA.
 - Murray MG, Thompson WF. Rapid isolation of high molecular weight plant DNA. Nucleic Acids Res. 1980 Oct 10;8(19):4321-5. doi: 10.1093/nar/8.19.4321. PMID: 7433111; PMCID: PMC324241. https://doi.org/10.1093/nar/8.19.4321
 
@@ -27,6 +23,10 @@ Extraction buffer: 20 mM sodium EDTA and 100 mM tris-HC1; adjust pH to 8.0 with 
 
 CHAOS solution (4 M guanidine thiocyanate, 0.5% N-lauroylsarcosine sodium salt, 0.1 M 2-mercaptoethanol, 25 mM Tris-HCl pH 8.0). 2×CTAB buffer (100 mM Tris, 20 mM EDTA, 1.4 M NaCl, 4% CTAB, pH 8.0), incubated at 65 °C for 60 min
 - Manalili, S. E. N., Mezaki, T., Taguchi, T., & Kubota, S. (2026). High-contiguity temperate coral genome reveals thematic gene enrichment and assembly quality effects in comparative genomics. Conservation Genetics, 27(2), 28. https://doi.org/10.1007/s10592-026-01760-3
+
+The Function of CTAB : Cetyltrimethylammoniumbromide (CTAB)is a cationic detergentthat has the useful property of precipitating nucleic acids and acidic polysaccharides from solutions of low ionic strength.Under these conditions, proteins and neutral polysaccharides remain in solution.In solutions of high ionic strength,CTAB forms complexes with proteins and all but the most acidic polysaccharides,but will not precipitate nucleic acids (Jones and Walker 1963)
+
+The detergentis added to bacterialor celllysatesthat havebeen adjustedto high ionic strength(>0.7 M NaCl).Afterremovingthe CTAB/polysaccharide/proteicnomplexesby sequentialextractionwith chloroformand phenol, the genomicDNAis recoveredfrom the supernatantby precipitationwith isopropanolor ethanol (Jonesand Walker1963;Wilson1987)
 
 
 # CHAOS CTAB-PCI DNA extraction步驟
