@@ -41,7 +41,7 @@ CHAOS solution (4 M guanidine thiocyanate, 0.5% N-lauroylsarcosine sodium salt, 
 7. **換新的2.0 tube**，用pipette抽小心的取上層的水層出來到新的2.0 tube。快要接近中間那層的時候，**寧願留下一部分水層也不要抽到雜質為優先**。
 8. 再度加入**400uL**的Chloroform，TissueLyser 3Hz一分鐘或是用手gently invert 3分鐘，然後常溫離 **14000rpm for 5 min**
 9. 取出抽上層的水層到**新的1.5 tube**, 加入2倍體積的Isopropanol，Mix gently (just turn over repeatedly), DNA will visually appear(但通常啥都看不到)。
-  # or Add 600 μl of Isopropanol into each DNA tube，Add 20 μl of 3mol/I-Sodium Acetate Buffer solution into each tube  
+   - or Add 600 μl of Isopropanol into each DNA tube，Add 20 μl of 3mol/I-Sodium Acetate Buffer solution into each tube  
 10. 離心14000rpm for 25 min。*eppendorf放進去離心機的時候蓋子的方向要一致，這樣DNA pellet才會在同一個位置沉澱
 11. 離心完後倒掉isopropanol ，加**800 μl** 的**70% ethanol** for rinse。 輕輕的加入免得衝散DNA pellet，浸潤3分鐘吸收可能的殘留鹽分，然後再度離心**14000rmp 1分鐘**，然後倒掉ethanol。這個步驟需要做兩次來移除過量的鹽分。*記得eppendorf的方向要跟上一個步驟一致，免得一離心DNA pellet就移位。
 12. 倒掉ethanol後，tube底部就是DNA，Air dry殘留的ethanol，但是不要過度乾燥，不然DNA會不好回溶，但也不能有ethanol殘留以免影響後面的PCR反應
