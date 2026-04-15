@@ -6,6 +6,27 @@
 5. 1000 uL與200 uL的tips，2.0與1.5的tube
 6. TE buffer，0.8 % Agarose gel，Novel Juice (dye)，lambda DNA ladder
 
+
+# Reference   
+
+The extraction buffer for plant DNA isolation consists of EDTA (20 mM), Tris-HCl (100 mM), NaCl (1.5 M), CTAB (2%), and 1% β-mercaptoethanol. Samples are incubated at 60 °C for 30 minutes.
+- Sahu, S. K., Thangaraj, M., & Kathiresan, K. (2012). DNA extraction protocol for plants with high levels of secondary metabolites and polysaccharides without using liquid nitrogen and phenol. *ISRN Molecular Biology*, 2012, 1–6. https://doi.org/10.5402/2012/205049
+
+Most of the polysaccharides were removed effectively in a single high-salt precipitation at 1.0-2.5 M NaCl. At 3.0 M NaCl, the salt precipitated out of solution
+- Fang G, Hammar S, Grumet R. A quick and inexpensive method for removing polysaccharides from plant genomic DNA. Biotechniques. 1992 Jul;13(1):52-4, 56. PMID: 1503775. https://pubmed.ncbi.nlm.nih.gov/1503775/
+
+The Function of CTAB : Cetyltrimethylammoniumbromide (CTAB)is a cationic detergentthat has the useful property of precipitating nucleic acids and acidic polysaccharides from solutions of low ionic strength.Under these conditions, proteins and neutral polysaccharides remain in solution.In solutions of high ionic strength,CTAB forms complexes with proteins and all but the most acidic polysaccharides,but will not precipitate nucleic acids (Jones and Walker 1963)
+
+A CTAB–nucleic acid precipitate is formed when the NaCl concentration is reduced from 0.7 M to 0.35 M by the addition of one volume of 1× CTAB containing 50 mM Tris-HCl (pH 8.0) and 10 mM EDTA.
+- Murray MG, Thompson WF. Rapid isolation of high molecular weight plant DNA. Nucleic Acids Res. 1980 Oct 10;8(19):4321-5. doi: 10.1093/nar/8.19.4321. PMID: 7433111; PMCID: PMC324241. https://doi.org/10.1093/nar/8.19.4321
+
+Extraction buffer: 20 mM sodium EDTA and 100 mM tris-HC1; adjust pH to 8.0 with HC1, add 1.4 M NaC1 and 2.0% (w / v) CTAB. Dissolve CTAB by heating to 60~ Store at 37~ Add 0.2% of ~-mercaptoethanol just before use.
+- Lodhi, M.A., Ye, GN., Weeden, N.F. et al. A simple and efficient method for DNA extraction from grapevine cultivars andVitis species. Plant Mol Biol Rep 12, 6–13 (1994). https://doi.org/10.1007/BF02668658
+
+CHAOS solution (4 M guanidine thiocyanate, 0.5% N-lauroylsarcosine sodium salt, 0.1 M 2-mercaptoethanol, 25 mM Tris-HCl pH 8.0). 2×CTAB buffer (100 mM Tris, 20 mM EDTA, 1.4 M NaCl, 4% CTAB, pH 8.0), incubated at 65 °C for 60 min
+- Manalili, S. E. N., Mezaki, T., Taguchi, T., & Kubota, S. (2026). High-contiguity temperate coral genome reveals thematic gene enrichment and assembly quality effects in comparative genomics. Conservation Genetics, 27(2), 28. https://doi.org/10.1007/s10592-026-01760-3
+
+
 # CHAOS CTAB-PCI DNA extraction步驟
 1. 取2.0 tube, 加**400uL PEB (SDS free)** 到每個tube裡面，然後**40uL的proteinase K**
 2. 取珊瑚樣本的CHAOS **100 uL**加入pipette數次混均勻，然後**incubation+ shake 60度C 1小時。**
