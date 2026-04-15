@@ -17,6 +17,8 @@ Most of the polysaccharides were removed effectively in a single high-salt preci
 
 The Function of CTAB : Cetyltrimethylammoniumbromide (CTAB)is a cationic detergentthat has the useful property of precipitating nucleic acids and acidic polysaccharides from solutions of low ionic strength.Under these conditions, proteins and neutral polysaccharides remain in solution.In solutions of high ionic strength,CTAB forms complexes with proteins and all but the most acidic polysaccharides,but will not precipitate nucleic acids (Jones and Walker 1963)
 
+The detergentis added to bacterialor celllysatesthat havebeen adjustedto high ionic strength(>0.7 MNaCl).Afterremovingthe CTAB/polysaccharide/proteicnomplexesby sequentialextractionwith chloroformand phenol, the genomicDNAis recoveredfrom the supernatantby precipitationwith isopropanolor ethanol (Jonesand Walker1963;Wilson1987)
+
 A CTAB–nucleic acid precipitate is formed when the NaCl concentration is reduced from 0.7 M to 0.35 M by the addition of one volume of 1× CTAB containing 50 mM Tris-HCl (pH 8.0) and 10 mM EDTA.
 - Murray MG, Thompson WF. Rapid isolation of high molecular weight plant DNA. Nucleic Acids Res. 1980 Oct 10;8(19):4321-5. doi: 10.1093/nar/8.19.4321. PMID: 7433111; PMCID: PMC324241. https://doi.org/10.1093/nar/8.19.4321
 
