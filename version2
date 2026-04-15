@@ -49,7 +49,14 @@ CHAOS solution (4 M guanidine thiocyanate, 0.5% N-lauroylsarcosine sodium salt, 
 14. 跑膠檢查DNA quality：用0.8% Agarose / 100v 跑30分鐘。用 1uL的novel juice與2uL的DNA
 
 
-
+| 成分 | Stock | 目標濃度 | 100 mL 所需體積 |
+|------|-------|-----------|------------------|
+| Tris-HCl | 1 M | 100 mM | 10 mL |
+| EDTA | 0.5 M | 20 mM | 4 mL |
+| NaCl | 5 M | 1.4 M | 28 mL |
+| CTAB | 10% | 4% | 40 mL |
+| ddH₂O | — | — | 18 mL |
+| **總體積** | — | — | **100 mL** |
 
  
 # 5 M NaCl stock, 100 mL
