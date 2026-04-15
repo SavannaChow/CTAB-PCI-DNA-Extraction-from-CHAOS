@@ -9,6 +9,11 @@
 
 # Reference   
 
+The Function of CTAB : Cetyltrimethylammoniumbromide (CTAB)is a cationic detergentthat has the useful property of precipitating nucleic acids and acidic polysaccharides from solutions of low ionic strength.Under these conditions, proteins and neutral polysaccharides remain in solution.In solutions of high ionic strength,CTAB forms complexes with proteins and all but the most acidic polysaccharides,but will not precipitate nucleic acids (Jones and Walker 1963)
+
+The detergentis added to bacterial or celllysates that have been adjusted to high ionic strength(>0.7 M NaCl).After removing the CTAB/polysaccharide/protein complexes by sequential extraction with chloroform and phenol, the genomic DNA is recovered from the supernatant by precipitation with isopropanol or ethanol (Jones and Walker 1963; Wilson 1987)
+
+
 The extraction buffer for plant DNA isolation consists of EDTA (20 mM), Tris-HCl (100 mM), NaCl (1.5 M), CTAB (2%), and 1% β-mercaptoethanol. Samples are incubated at 60 °C for 30 minutes.
 - Sahu, S. K., Thangaraj, M., & Kathiresan, K. (2012). DNA extraction protocol for plants with high levels of secondary metabolites and polysaccharides without using liquid nitrogen and phenol. *ISRN Molecular Biology*, 2012, 1–6. https://doi.org/10.5402/2012/205049
 
@@ -23,10 +28,6 @@ Extraction buffer: 20 mM sodium EDTA and 100 mM tris-HC1; adjust pH to 8.0 with 
 
 CHAOS solution (4 M guanidine thiocyanate, 0.5% N-lauroylsarcosine sodium salt, 0.1 M 2-mercaptoethanol, 25 mM Tris-HCl pH 8.0). 2×CTAB buffer (100 mM Tris, 20 mM EDTA, 1.4 M NaCl, 4% CTAB, pH 8.0), incubated at 65 °C for 60 min
 - Manalili, S. E. N., Mezaki, T., Taguchi, T., & Kubota, S. (2026). High-contiguity temperate coral genome reveals thematic gene enrichment and assembly quality effects in comparative genomics. Conservation Genetics, 27(2), 28. https://doi.org/10.1007/s10592-026-01760-3
-
-The Function of CTAB : Cetyltrimethylammoniumbromide (CTAB)is a cationic detergentthat has the useful property of precipitating nucleic acids and acidic polysaccharides from solutions of low ionic strength.Under these conditions, proteins and neutral polysaccharides remain in solution.In solutions of high ionic strength,CTAB forms complexes with proteins and all but the most acidic polysaccharides,but will not precipitate nucleic acids (Jones and Walker 1963)
-
-The detergentis added to bacterial or celllysates that have been adjusted to high ionic strength(>0.7 M NaCl).After removing the CTAB/polysaccharide/protein complexes by sequential extraction with chloroform and phenol, the genomic DNA is recovered from the supernatant by precipitation with isopropanol or ethanol (Jones and Walker 1963; Wilson 1987)
 
 
 # CHAOS CTAB-PCI DNA extraction步驟
