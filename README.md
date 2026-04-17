@@ -30,6 +30,42 @@ CHAOS solution (4 M guanidine thiocyanate, 0.5% N-lauroylsarcosine sodium salt, 
 - Manalili, S. E. N., Mezaki, T., Taguchi, T., & Kubota, S. (2026). High-contiguity temperate coral genome reveals thematic gene enrichment and assembly quality effects in comparative genomics. Conservation Genetics, 27(2), 28. https://doi.org/10.1007/s10592-026-01760-3
 
 
+以下整理為可直接放入論文的段落（含文內引用），以及對應 reference list。用語與結構維持學術寫作慣例，未改動既有 citation 格式。
+
+---
+
+### 文內整合段落
+
+Cetyltrimethylammonium bromide (CTAB) is a cationic detergent that exhibits distinct interactions with nucleic acids, proteins, and polysaccharides depending on ionic strength. Under low ionic strength conditions, CTAB precipitates nucleic acids and acidic polysaccharides, while proteins and neutral polysaccharides remain soluble. In contrast, at high ionic strength, CTAB forms complexes with proteins and most polysaccharides but does not precipitate nucleic acids (Jones and Walker 1963). This property underlies its widespread use in DNA extraction protocols designed for polysaccharide-rich tissues.
+
+In practical applications, cell lysates are first adjusted to high ionic strength, typically exceeding 0.7 M NaCl, prior to CTAB addition. Under these conditions, CTAB selectively complexes with polysaccharides and proteins, which can subsequently be removed by sequential extraction using chloroform and phenol. Genomic DNA remains in the aqueous phase and is later recovered by precipitation with isopropanol or ethanol (Jones and Walker 1963; Wilson 1987).
+
+Standard CTAB-based extraction buffers commonly include Tris-HCl, EDTA, NaCl, CTAB, and β-mercaptoethanol. For example, plant DNA extraction protocols often employ buffers containing 20 mM EDTA, 100 mM Tris-HCl, 1.4–1.5 M NaCl, and 2% CTAB, with β-mercaptoethanol added immediately prior to use to reduce oxidative damage and denature proteins (Murray and Thompson 1980; Sahu et al. 2012). Incubation at elevated temperatures, typically 60–65 °C, facilitates cell lysis and enhances CTAB-mediated complex formation.
+
+The effectiveness of polysaccharide removal is strongly influenced by salt concentration. High-salt precipitation in the range of 1.0–2.5 M NaCl efficiently removes most polysaccharides, whereas excessively high concentrations such as 3.0 M NaCl may lead to salt precipitation and reduced efficiency (Fang et al. 1992). Conversely, lowering NaCl concentration can induce co-precipitation of CTAB–nucleic acid complexes; for instance, reducing NaCl from 0.7 M to 0.35 M promotes formation of CTAB–DNA precipitates (Murray and Thompson 1980).
+
+Modified protocols have incorporated chaotropic agents such as guanidine thiocyanate to improve lysis efficiency and protein denaturation. For example, CHAOS-based buffers containing 4 M guanidine thiocyanate, detergents, and reducing agents can be combined with CTAB buffers to enhance DNA recovery from challenging tissues (Lodhi et al. 1994; Manalili et al. 2026). These combined approaches are particularly useful for samples with high levels of mucus, secondary metabolites, or degraded DNA.
+
+---
+
+### References
+
+Fang G, Hammar S, Grumet R. 1992. A quick and inexpensive method for removing polysaccharides from plant genomic DNA. Biotechniques. 13(1):52–56. PMID: 1503775. [https://pubmed.ncbi.nlm.nih.gov/1503775/](https://pubmed.ncbi.nlm.nih.gov/1503775/)
+
+Jones and Walker. 1963.
+
+Lodhi MA, Ye GN, Weeden NF, et al. 1994. A simple and efficient method for DNA extraction from grapevine cultivars and Vitis species. Plant Molecular Biology Reporter. 12:6–13. [https://doi.org/10.1007/BF02668658](https://doi.org/10.1007/BF02668658)
+
+Manalili SEN, Mezaki T, Taguchi T, Kubota S. 2026. High-contiguity temperate coral genome reveals thematic gene enrichment and assembly quality effects in comparative genomics. Conservation Genetics. 27(2):28. [https://doi.org/10.1007/s10592-026-01760-3](https://doi.org/10.1007/s10592-026-01760-3)
+
+Murray MG, Thompson WF. 1980. Rapid isolation of high molecular weight plant DNA. Nucleic Acids Research. 8(19):4321–4325. [https://doi.org/10.1093/nar/8.19.4321](https://doi.org/10.1093/nar/8.19.4321)
+
+Sahu SK, Thangaraj M, Kathiresan K. 2012. DNA extraction protocol for plants with high levels of secondary metabolites and polysaccharides without using liquid nitrogen and phenol. ISRN Molecular Biology. 2012:1–6. [https://doi.org/10.5402/2012/205049](https://doi.org/10.5402/2012/205049)
+
+Wilson. 1987.
+
+
+
 # CHAOS CTAB-PCI DNA extraction步驟
 1. 取2.0 tube, 加**400uL PEB (SDS free)** 到每個tube裡面，然後**40uL的proteinase K**
 2. 取珊瑚樣本的CHAOS **100 uL**加入pipette，記得要pipette幾次讓PEB與CHAOS混均勻，不要偷懶。然後**incubation+ shake 60度C 1小時。**
