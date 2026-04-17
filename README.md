@@ -46,26 +46,26 @@ Murray MG, Thompson WF. Rapid isolation of high molecular weight plant DNA. Nucl
 ### Extraction buffer: 20 mM sodium EDTA and 100 mM tris-HC1; adjust pH to 8.0 with HC1, add 1.4 M NaC1 and 2.0% (w / v) CTAB. Dissolve CTAB by heating to 60~ Store at 37~ Add 0.2% of ~-mercaptoethanol just before use.
 Lodhi, M.A., Ye, GN., Weeden, N.F. et al. A simple and efficient method for DNA extraction from grapevine cultivars andVitis species. Plant Mol Biol Rep 12, 6–13 (1994). https://doi.org/10.1007/BF02668658
 
-# CHAOS solution (4 M guanidine thiocyanate, 0.5% N-lauroylsarcosine sodium salt, 0.1 M 2-mercaptoethanol, 25 mM Tris-HCl pH 8.0). 2×CTAB buffer (100 mM Tris, 20 mM EDTA, 1.4 M NaCl, 4% CTAB, pH 8.0), incubated at 65 °C for 60 min
+### CHAOS solution (4 M guanidine thiocyanate, 0.5% N-lauroylsarcosine sodium salt, 0.1 M 2-mercaptoethanol, 25 mM Tris-HCl pH 8.0). 2×CTAB buffer (100 mM Tris, 20 mM EDTA, 1.4 M NaCl, 4% CTAB, pH 8.0), incubated at 65 °C for 60 min
 Manalili, S. E. N., Mezaki, T., Taguchi, T., & Kubota, S. (2026). High-contiguity temperate coral genome reveals thematic gene enrichment and assembly quality effects in comparative genomics. Conservation Genetics, 27(2), 28. https://doi.org/10.1007/s10592-026-01760-3
 
 
 ## Stock配方
 
  
-# 5 M NaCl stock, 100 mL
+### 5 M NaCl stock, 100 mL
 1. NaCl 29.22 g
 2. ddH2O to 100 mL
    
 先以約 60 到 70 mL ddH2O 溶解 NaCl，完全溶解後定容至 100 mL。
 
-# 10% CTAB stock, 100 mL
+### 10% CTAB stock, 100 mL
 1. CTAB: 10.0 g
 2. ddH2O to 100 ml
    
 先以約 60 到 70 mL ddH2O 加熱至 60 到 65°C，分批加入 CTAB 並攪拌至完全溶解，最後定容至 100 mL。室溫保存，若析晶則使用前加熱回溶。
 
-# SDS-free PEB (phenol extraction buffer)
+### SDS-free PEB (phenol extraction buffer)
 1.此版本僅含 Tris-HCl 與 EDTA，適用於需搭配 CTAB 的 DNA 抽取流程，以避免 SDS 與 CTAB 形成沉澱。  
 2. PEB的Stock溶液的pH必須為8.0  
 
@@ -83,7 +83,7 @@ Manalili, S. E. N., Mezaki, T., Taguchi, T., & Kubota, S. (2026). High-contiguit
 3. Tris-HCl 提供穩定的緩衝環境以維持 DNA 穩定性。  
 
  
-# 1 M Tris HCl pH 8.0，500 mL
+### 1 M Tris HCl pH 8.0，500 mL
 需要
 - Tris base 60.57 g
 - ddH2O滅菌水
@@ -105,7 +105,7 @@ Manalili, S. E. N., Mezaki, T., Taguchi, T., & Kubota, S. (2026). High-contiguit
    
 注意： Tris 的 pH 會受溫度影響，所以最好在室溫下調 pH，不要趁很熱的時候調，不然放回室溫後 pH 會跑掉。
  
-# 0.5 M EDTA pH 8.0，500 mL
+### 0.5 M EDTA pH 8.0，500 mL
 - EDTA (Na2EDTA·2H2O): 93.05 g
 -ddH2O滅菌水
 - NaOH溶液 用來滴定 pH
@@ -123,9 +123,9 @@ Manalili, S. E. N., Mezaki, T., Taguchi, T., & Kubota, S. (2026). High-contiguit
 7.	用 ddH2O 補到最終體積 500 mL。
 8.	混勻。
    
-# 5 M NaOH，500 mL配法
+### 5 M NaOH，500 mL配法
 
-# 記得！！！要先放水，然後慢慢地把NaOH加到水裡！！
+### 記得！！！要先放水，然後慢慢地把NaOH加到水裡！！
 如果你先放NaOH，然後將水倒入氫氧化鈉中，水會迅速吸收大量熱量並瞬間汽化，體積劇烈膨脹，導致溶液連同未溶解的顆粒一起噴出（像火山噴發一樣）。
 噴出的液體是高濃度強鹼，會對皮膚、眼睛造成嚴重灼傷
 NaOH 很腐蝕，配的時候要戴手套和護目鏡！  
