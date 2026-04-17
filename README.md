@@ -7,7 +7,9 @@
 6. TE buffer，0.8 % Agarose gel，Novel Juice (dye)，lambda DNA ladder
 
 
+https://www.intechopen.com/chapters/72074
 
+https://onlinelibrary.wiley.com/doi/10.1155/2009/574398?utm_source=chatgpt.com
 
 
 # CHAOS CTAB-PCI DNA extraction步驟
