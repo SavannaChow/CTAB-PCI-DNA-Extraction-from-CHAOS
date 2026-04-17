@@ -90,6 +90,8 @@ CHAOS solution (4 M guanidine thiocyanate, 0.5% N-lauroylsarcosine sodium salt, 
 - 磁石攪拌器
 - pH meter (小心玻璃頭很容易破、要記得先做三點校正)
 
+#注意：pH 8.0很重要，如果沒有調整到pH8，PCI抽取時DNA會跑去中間層甚至有機層，不會留在水層。
+
 步驟
 1.	先在燒杯中加入約 350 mL ddH2O，再加入 Tris base 60.57 g，攪拌至完全溶解。
 2.	開始量 pH: Tris base 溶於水後，pH 會偏高，所以要用 HCl 慢慢往下調。
