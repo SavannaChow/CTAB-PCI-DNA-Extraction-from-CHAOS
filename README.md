@@ -32,10 +32,9 @@ CHAOS solution (4 M guanidine thiocyanate, 0.5% N-lauroylsarcosine sodium salt, 
 
 # CHAOS CTAB-PCI DNA extraction步驟
 1. 取2.0 tube, 加**400uL PEB (SDS free)** 到每個tube裡面，然後**40uL的proteinase K**
-2. 取珊瑚樣本的CHAOS **100 uL**加入pipette數次混均勻，然後**incubation+ shake 60度C 1小時。**
-- 加進去tube時記得要pipette幾次讓PEB與CHAOS混均勻
-3. Incubation完後取出，每一個管都先加入**269 uL** 的5M NaCl，記得pipette數次混均勻
-4. 再把每管加入10%的CTAB, **192uL**。pipette混均勻，**incubation + shake 30分鐘。**
+2. 取珊瑚樣本的CHAOS **100 uL**加入pipette，記得要pipette幾次讓PEB與CHAOS混均勻，不要偷懶。然後**incubation+ shake 60度C 1小時。**
+3. Incubation完後取出，先加入**269 uL** 的5M NaCl，記得一定要pipette多次混均勻，讓他變成均勻的high ionic strength溶液，而不是局部高顏這種不均勻的solution
+4. 再把每管加入10%的CTAB, **192uL**，**incubation + shake 30分鐘。**
 4. 取出後，加入**1000uL**的PCI (Phenol:Chloroform:Isoamyl Alcohol, 25:24:1 ratio)。
 5. 這時溶液已經接近2000uL tube上限，記得要蓋好蓋緊，然後放去TissueLyser的block裡混合，使用最低速3hz，1分鐘。或是你可以用手gently invert 3分鐘。使用TissueLyzer記得他的rack裡面要墊衛生紙，這樣才能壓緊蓋子不會漏出來。
 6. 離心**14000rpm for 5 min**，記得要常溫，不要開到低溫，Hitachi那台離心機設定成25度。
