@@ -33,7 +33,6 @@ CHAOS solution (4 M guanidine thiocyanate, 0.5% N-lauroylsarcosine sodium salt, 
 # CHAOS CTAB-PCI DNA extraction步驟
 1. 取2.0 tube, 加**400uL PEB (SDS free)** 到每個tube裡面，然後**40uL的proteinase K**
 2. 取珊瑚樣本的CHAOS **100 uL**加入pipette數次混均勻，然後**incubation+ shake 60度C 1小時。**
-- CHAOS如果有很濃稠的mucus, 用pipette繞圈抽吸把mucus與chaos水溶液打散混均勻，像是打散蛋清那樣，讓CHAOS與Mucus盡量混均勻再抽取。
 - 加進去tube時記得要pipette幾次讓PEB與CHAOS混均勻
 3. Incubation完後取出，每一個管都先加入**269 uL** 的5M NaCl，記得pipette數次混均勻
 4. 再把每管加入10%的CTAB, **192uL**。pipette混均勻，**incubation + shake 30分鐘。**
