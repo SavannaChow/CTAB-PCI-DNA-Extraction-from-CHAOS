@@ -1,10 +1,19 @@
 # 需要準備的材料：
-1. 5M NaCl與10% CTAB。CTAB會結晶，用之前要加熱65度C讓結晶消失才能用
-2. PEB-SDS free
-3. Proteinase K
-4. PCI & Chloroform
-5. 1000 uL與200 uL的tips，2.0與1.5的tube
-6. TE buffer，0.8 % Agarose gel，Novel Juice (dye)，lambda DNA ladder
+1. 2X CTAB
+   
+| 成分 | Stock | 目標濃度 | 100 mL 所需體積 |
+|------|-------|-----------|------------------|
+| Tris-HCl | 1 M | 100 mM | 10 mL |
+| EDTA | 0.5 M | 20 mM | 4 mL |
+| NaCl | 5 M | 1.4 M | 28 mL |
+| CTAB | 10% | 4% | 40 mL |
+| ddH₂O | — | — | 18 mL |
+| **總體積** | — | — | **100 mL** |
+
+2. Proteinase K
+3. PCI & Chloroform
+4. 1000 uL 與 200 uL的tips，2.0與1.5的tube
+5. TE buffer，0.8 % Agarose gel，Novel Juice (dye)，lambda DNA ladder
 
 
 # Reference   
@@ -49,14 +58,6 @@ CHAOS solution (4 M guanidine thiocyanate, 0.5% N-lauroylsarcosine sodium salt, 
 14. 跑膠檢查DNA quality：用0.8% Agarose / 100v 跑30分鐘。用 1uL的novel juice與2uL的DNA
 
 
-| 成分 | Stock | 目標濃度 | 100 mL 所需體積 |
-|------|-------|-----------|------------------|
-| Tris-HCl | 1 M | 100 mM | 10 mL |
-| EDTA | 0.5 M | 20 mM | 4 mL |
-| NaCl | 5 M | 1.4 M | 28 mL |
-| CTAB | 10% | 4% | 40 mL |
-| ddH₂O | — | — | 18 mL |
-| **總體積** | — | — | **100 mL** |
 
  
 # 5 M NaCl stock, 100 mL
