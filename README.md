@@ -13,15 +13,15 @@ https://onlinelibrary.wiley.com/doi/10.1155/2009/574398?utm_source=chatgpt.com
 
 
 # CHAOS CTAB-PCI DNA extraction步驟
-1. 取2.0 tube, 加**400uL PEB (SDS free)** 到每個tube裡面，然後**40uL的proteinase K**
-2. 取珊瑚樣本的CHAOS **100 uL**加入pipette，記得要pipette幾次讓PEB與CHAOS混均勻，不要偷懶。然後**incubation+ shake 60度C 1小時。**
-3. Incubation完後取出，先加入**269 uL** 的5M NaCl，記得一定要pipette多次混均勻，讓他變成均勻的high ionic strength溶液，而不是局部高顏這種不均勻的solution
-4. 再把每管加入10%的CTAB, **192uL**，**incubation + shake 30分鐘。**
-4. 取出後，加入**1000uL**的PCI (Phenol:Chloroform:Isoamyl Alcohol, 25:24:1 ratio)。
-5. 這時溶液已經接近2000uL tube上限，記得要蓋好蓋緊，然後放去TissueLyser的block裡混合，使用最低速3hz，1分鐘。或是你可以用手gently invert 3分鐘。使用TissueLyzer記得他的rack裡面要墊衛生紙，這樣才能壓緊蓋子不會漏出來。
+1. 取2.0 tube, 加**200uL PEB (SDS free)** 到每個tube裡面，然後**30uL的proteinase K**
+2. 取珊瑚樣本的CHAOS **200 uL**加入pipette，記得要pipette幾次讓PEB與CHAOS混均勻，不要偷懶。然後**incubation+ shake 60度C 1小時。**
+3. Incubation完後取出，先加入**215 uL** 的5M NaCl，記得一定要pipette多次混均勻，讓他變成均勻的high ionic strength溶液，而不是局部高顏這種不均勻的solution
+4. 再把每管加入10%的CTAB, **154uL**，**incubation + shake 30分鐘。**
+4. 取出後，加入**800uL**的PCI (Phenol:Chloroform:Isoamyl Alcohol, 25:24:1 ratio)。
+5. 蓋好蓋緊，然後放去TissueLyser的block裡混合，使用最低速3hz，1分鐘。或是你可以用手gently invert 3分鐘。使用TissueLyzer記得他的rack裡面要墊衛生紙，這樣才能壓緊蓋子不會漏出來。
 6. 離心**14000rpm for 5 min**，記得要常溫，不要開到低溫，Hitachi那台離心機設定成25度。
 7. **換新的2.0 tube**，用pipette抽小心的取上層的水層出來到新的2.0 tube。快要接近中間那層的時候，**寧願留下一部分水層也不要抽到雜質為優先**。
-8. 再度加入**1000uL**的PCI，TissueLyser 3Hz一分鐘或是用手gently invert 3分鐘，然後常溫離 **14000rpm for 5 min**
+8. 再度加入**800uL**的PCI，TissueLyser 3Hz一分鐘或是用手gently invert 3分鐘，然後常溫離 **14000rpm for 5 min**
 9. 取出抽上層的水層到**新的1.5 tube**, 加入2倍體積的Isopropanol，Mix gently (just turn over repeatedly), DNA will visually appear(但通常啥都看不到)。
 10. 離心14000rpm for 25 min。*eppendorf放進去離心機的時候蓋子的方向要一致，這樣DNA pellet才會在同一個位置沉澱
 11. 離心完後倒掉isopropanol ，加**800 μl** 的**70% ethanol** for rinse。 輕輕的加入免得衝散DNA pellet，浸潤3分鐘吸收可能的殘留鹽分，然後再度離心**14000rmp 1分鐘**，然後倒掉ethanol。這個步驟需要做兩次來移除過量的鹽分。*記得eppendorf的方向要跟上一個步驟一致，免得一離心DNA pellet就移位。
