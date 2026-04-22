@@ -1,5 +1,5 @@
 # 需要準備的材料：
-1. 5M NaCl與10% CTAB。CTAB會結晶，用之前要加熱65度C讓結晶消失才能用
+1. 5M NaCl與10% CTAB。CTAB會結晶，用之前要加熱讓結晶消失才能用
 2. PEB-SDS free
 3. Proteinase K
 4. PCI & Chloroform
@@ -7,16 +7,12 @@
 6. TE buffer，0.8 % Agarose gel，Novel Juice (dye)，lambda DNA ladder
 
 
-https://www.intechopen.com/chapters/72074
-
-https://onlinelibrary.wiley.com/doi/10.1155/2009/574398?utm_source=chatgpt.com
-
 
 # CHAOS CTAB-PCI DNA extraction步驟
 1. 取2.0 tube, 加**200uL PEB (SDS free)** 到每個tube裡面，然後**30uL的proteinase K**
 2. 取珊瑚樣本的CHAOS **200 uL**加入pipette，記得要pipette幾次讓PEB與CHAOS混均勻，不要偷懶。
 3. 加入**215 uL** 的5M NaCl，記得一定要pipette多次混均勻，讓他變成均勻的high ionic strength溶液，而不是局部高顏這種不均勻的solution
-4. 再把每管加入10%的CTAB, **154uL**，然後**incubation+ shake 60度C 1小時。**
+4. 再把每管加入10%的CTAB **154uL**。注意CTAB會結晶，用之前一定要加熱讓結晶消失才能用。然後**incubation+ shake 60度C 1小時。**
 4. 取出後，加入**800uL**的PCI (Phenol:Chloroform:Isoamyl Alcohol, 25:24:1 ratio)。
 5. 蓋好蓋緊，然後放去TissueLyser的block裡混合，使用最低速3hz，1分鐘。或是你可以用手gently invert 3分鐘。使用TissueLyzer記得他的rack裡面要墊衛生紙，這樣才能壓緊蓋子不會漏出來。
 6. 離心**14000rpm for 5 min**，記得要常溫，不要開到低溫，Hitachi那台離心機設定成25度。
@@ -51,6 +47,8 @@ Lodhi, M.A., Ye, GN., Weeden, N.F. et al. A simple and efficient method for DNA 
 ### CHAOS solution (4 M guanidine thiocyanate, 0.5% N-lauroylsarcosine sodium salt, 0.1 M 2-mercaptoethanol, 25 mM Tris-HCl pH 8.0). 2×CTAB buffer (100 mM Tris, 20 mM EDTA, 1.4 M NaCl, 4% CTAB, pH 8.0), incubated at 65 °C for 60 min
 Manalili, S. E. N., Mezaki, T., Taguchi, T., & Kubota, S. (2026). High-contiguity temperate coral genome reveals thematic gene enrichment and assembly quality effects in comparative genomics. Conservation Genetics, 27(2), 28. https://doi.org/10.1007/s10592-026-01760-3
 
+https://www.intechopen.com/chapters/72074
+https://onlinelibrary.wiley.com/doi/10.1155/2009/574398
 
 ## Stock配方
 
