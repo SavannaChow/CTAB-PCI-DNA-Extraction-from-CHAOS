@@ -17,8 +17,8 @@
 ### Step 2. 使用NaCl創造high ionic strength環境，讓CTAB在此情況下可以針對polysaccharide去抓。
 
 3. 加**215 uL** 的5M NaCl，記得一定要pipette多次混均勻，讓他變成均勻的high ionic strength溶液，而不是局部high salt這種不均勻的solution
-   3.1 注意順序一定要NaCl先，CTAB後，否則CTAB會去抓DNA
-   3.2 如果你預混NaCl+CTAB也可以，但是預混液會很濃稠不好吸取與操作，不是很建議。
+   - 注意順序一定要NaCl先，CTAB後，否則CTAB會去抓DNA
+   - 如果你預混NaCl+CTAB也可以，但是預混液會很濃稠不好吸取與操作，不是很建議。
 4. 再把每管加入10%的CTAB **154uL**。注意CTAB會結晶，用之前一定要加熱讓結晶消失才能用
 5. **incubation+ shake 60度C 1小時。**
 
