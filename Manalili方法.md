@@ -1,3 +1,5 @@
+## 這個方法來自於Manalili et al., 2026。主要差異為把所有溶劑預混，最終濃度NaCl為0.7M, CTAB為4%。2X CTAB本身非常濃稠，不是很好處理，而且實際測試下發現對於polysaccharide rich的樣本，會沒辦法很好的抑制多醣污染，導致抽取出來的DNA容易有多醣殘留，必須再後面使用其他步驟(例如1.4M NaCl)重新清洗DNA extraction才能用。
+
 # 需要準備的材料：
 1. 2X CTAB
    
