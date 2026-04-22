@@ -36,7 +36,8 @@
 17. Add 60μl of pre-heated TE(65度C)成為DNA stock。記得要給一點時間讓DNA溶解，不要立刻去測DNA。
 18. 跑膠檢查DNA quality：用0.8% Agarose / 100v 跑30分鐘。用 1uL的novel juice與2uL的DNA
 
-### 測試過以下方法
+### 不同體積的CHAOS與PEB所要加的5M NaCl與10% CTAB的體積
+
 | CHAOS (uL) | PEB (uL) | 5M NaCl (uL) | 10% CTAB (uL) | 總體積 (uL) |
 |-----------|----------|--------------|---------------|------------|
 | 200       | 300      | 269          | 192           | 961        |
