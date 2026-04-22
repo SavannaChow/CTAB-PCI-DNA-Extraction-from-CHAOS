@@ -10,16 +10,16 @@
 
 # CHAOS CTAB-PCI DNA extraction步驟
 
-## Step 1. 稀釋黏稠的CHAOS並且增加體積讓後面比較好抽取
+### Step 1. 稀釋黏稠的CHAOS並且增加體積讓後面比較好抽取
 1. 取2.0 tube, 加**200uL PEB (SDS free)** 到每個tube裡面，然後**30uL的proteinase K**
 2. CHAOS **200 uL**，記得要pipette幾次讓PEB與CHAOS混均勻，不要偷懶。
 
-## Step 2. 使用NaCl創造high ionic strength環境，讓CTAB在此情況下可以針對polysaccharide去抓。注意順序一定要NaCl先，CTAB後。如果你預混NaCl+CTAB也可以，但是預混液會很濃稠不好吸取與操作。
+### Step 2. 使用NaCl創造high ionic strength環境，讓CTAB在此情況下可以針對polysaccharide去抓。注意順序一定要NaCl先，CTAB後。如果你預混NaCl+CTAB也可以，但是預混液會很濃稠不好吸取與操作。
 3. 加**215 uL** 的5M NaCl，記得一定要pipette多次混均勻，讓他變成均勻的high ionic strength溶液，而不是局部high salt這種不均勻的solution
 4. 再把每管加入10%的CTAB **154uL**。注意CTAB會結晶，用之前一定要加熱讓結晶消失才能用
 5. **incubation+ shake 60度C 1小時。**
 
-## Step 3. 使用PCI來清理雜質(polysaccharide, portein, lipids等等)
+### Step 3. 使用PCI來清理雜質(polysaccharide, portein, lipids等等)
 6. 加入**800uL**的PCI (Phenol:Chloroform:Isoamyl Alcohol, 25:24:1 ratio)。
 7. 蓋好蓋緊，然後放去TissueLyser的block裡混合，使用最低速3hz，1分鐘。或是你可以用手gently invert 3分鐘。使用TissueLyzer記得他的rack裡面要墊衛生紙，這樣才能壓緊蓋子不會漏出來。
 8. 離心**14000rpm for 5 min**，記得要常溫，不要開到低溫，Hitachi那台離心機設定成25度。不能用低溫離心，可能會造成多醣共沉澱。
@@ -27,7 +27,7 @@
 10. 再度加入**800uL**的PCI，TissueLyser 3Hz一分鐘或是用手gently invert 3分鐘，然後常溫離 **14000rpm for 5 min**
 11. 取出抽上層的水層到**新的1.5 tube**
 
-## Step 4. 準備析出DNA
+### Step 4. 準備析出DNA
 12. 加入2倍體積的Isopropanol，Mix gently (just turn over repeatedly), DNA will visually appear(通常啥都看不到,如果你看到一大坨白白的甚至有可能是多醣污染)。
 13. 離心14000rpm for 25 min，這部是讓高G值讓析出的DNA沉澱到管底。*eppendorf放進去離心機的時候蓋子的方向要一致，這樣DNA pellet才會在同一個位置沉澱。
 14. 離心完後倒掉isopropanol ，加**800 μl** 的**70% ethanol** for rinse，浸潤3分鐘吸收可能的殘留鹽分，然後再度離心**14000rmp 1分鐘**，然後倒掉ethanol。
@@ -36,7 +36,7 @@
 17. Add 60μl of pre-heated TE(65度C)成為DNA stock。記得要給一點時間讓DNA溶解，不要立刻去測DNA。
 18. 跑膠檢查DNA quality：用0.8% Agarose / 100v 跑30分鐘。用 1uL的novel juice與2uL的DNA
 
-###測試過以下方法
+### 測試過以下方法
 | CHAOS (uL) | PEB (uL) | 5M NaCl (uL) | 10% CTAB (uL) | 總體積 (uL) |
 |-----------|----------|--------------|---------------|------------|
 | 200       | 300      | 269          | 192           | 961        |
