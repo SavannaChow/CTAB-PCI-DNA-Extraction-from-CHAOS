@@ -48,7 +48,16 @@ Lodhi, M.A., Ye, GN., Weeden, N.F. et al. A simple and efficient method for DNA 
 Manalili, S. E. N., Mezaki, T., Taguchi, T., & Kubota, S. (2026). High-contiguity temperate coral genome reveals thematic gene enrichment and assembly quality effects in comparative genomics. Conservation Genetics, 27(2), 28. https://doi.org/10.1007/s10592-026-01760-3
 
 https://www.intechopen.com/chapters/72074
+
 https://onlinelibrary.wiley.com/doi/10.1155/2009/574398
+
+
+| CHAOS (uL) | PEB (uL) | 5M NaCl (uL) | 10% CTAB (uL) | 總體積 (uL) |
+|-----------|----------|--------------|---------------|------------|
+| 200       | 300      | 269          | 192           | 961        |
+| 200       | 200      | 215          | 154           | 769        |
+| 200       | 100      | 162          | 115           | 577        |
+
 
 ## Stock配方
 
