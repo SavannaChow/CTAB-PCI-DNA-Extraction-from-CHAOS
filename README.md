@@ -37,7 +37,7 @@
 14. 離心完後倒掉isopropanol ，加**800 μl** 的**70% ethanol** for rinse，浸潤3分鐘吸收可能的殘留鹽分，然後再度離心**14000rmp 1分鐘**，然後倒掉ethanol。
 15. 這個70% ethanol步驟需要做total兩次來移除過量的鹽分。*記得eppendorf上離心機時的方向要跟上一個步驟一致，免得一離心DNA pellet就移位。
 16. 倒掉ethanol後，tube底部就是DNA。Air dry殘留的ethanol，ethanol會影響後面的PCR所以不能殘留，但是也不能過度乾燥，不然DNA會不好回溶。
-17. Add 60μl of pre-heated TE(65度C)成為DNA stock。記得要給一點時間讓DNA溶解，不要立刻去測DNA。
+17. Add 100μl or 200uL of pre-heated TE(65度C)成為DNA stock。記得要給一點時間讓DNA溶解，不要立刻去測DNA。
 18. 跑膠檢查DNA quality：用0.8% Agarose / 100v 跑30分鐘。用 1uL的novel juice與2uL的DNA
 
 ### CHAOS+PEB比例
