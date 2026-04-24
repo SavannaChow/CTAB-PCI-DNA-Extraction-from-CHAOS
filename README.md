@@ -11,7 +11,7 @@
 # CHAOS CTAB-PCI DNA extraction步驟
 
 ### Step 1. 稀釋黏稠的CHAOS並且增加體積讓後面比較好抽取
-1. 取2.0 tube, 加**200uL PEB (SDS free)** 到每個tube裡面，然後**30uL的proteinase K**
+1. 取2.0 tube, 加**200uL PEB (SDS free)** 到每個tube裡面，然後**4 uL RNase**與**30uL的proteinase K**, 
 2. CHAOS **200 uL**，記得要pipette幾次讓PEB與CHAOS混均勻，不要偷懶。
 
 ### Step 2. 使用NaCl創造high ionic strength環境，讓CTAB在此情況下可以針對polysaccharide去抓。
