@@ -1,6 +1,6 @@
 取2.0 tube, 加200uL PEB (SDS free) ＋4 uL RNase與30uL的proteinase K
 
-CHAOS 200 uL，記得要pipette幾次讓PEB與CHAOS混均勻
+CHAOS 200 uL，記得要輕輕的慢慢的pipette幾次讓PEB與CHAOS混均勻
 
 先215 uL 的5M NaCl, pipette多次混均勻
 
@@ -10,7 +10,7 @@ incubation+ shake 60度C 1小時
 
 — — — 
 
-加入800uL的PCI (Phenol:Chloroform:Isoamyl Alcohol, 25:24:1 ratio), pipette數次混合
+加入800uL的PCI (Phenol:Chloroform:Isoamyl Alcohol, 25:24:1 ratio), 輕輕的慢慢的pipette數次混合均勻
 
 常溫離心8000 rpm for 10 minutes
 
@@ -20,13 +20,13 @@ incubation+ shake 60度C 1小時
 
 — — — 
 
-先加入70uL (1/10 volume)的3mol/L Sodium Acetate Buffer, pipette數次混均勻
+先加入70uL (1/10 volume)的3mol/L Sodium Acetate Buffer, 輕輕的慢慢的pipette數次混均勻(Na⁺ 中和 DNA 磷酸骨架的負電，讓 DNA 分子之間比較容易聚集)
 
-再加入730uL Isopropanol, pipette數次混均勻
+再加入730uL Isopropanol, 輕輕的慢慢的pipette數次混均勻 (降低水相的介電常數與 DNA 溶解度，讓已經被陽離子屏蔽電荷的 DNA 從溶液中析出)
 
-順序不要顛倒
+所以要按照上面順序做，不能反過來。
 
-然後放到-20冰箱incubate 1小時
+然後放到-20冰箱incubate 1小時 (提高DNA被沉澱下來的機率)
 
 — — —
 
