@@ -1,0 +1,47 @@
+A Quick and Inexpensive Method for Removing Polysaccharides from Plant Genomic DNA
+
+https://pubmed.ncbi.nlm.nih.gov/1503775/&ved=2ahUKEwjKoLnJiLGVAxUmePUHHSlLF8YQFnoECBsQAQ&usg=AOvVaw00Ch0d6t_-82T5iko6kbnT
+
+The DNA pellet was redissolved in TE, the appropriate amount of 4 M NaCl was added to give a final concentration ranging from 0.5-3.0 M, and the sam- ple was reprecipitated with ethanol. 
+For effective polysaccharide removal, it was very important to completely dissolve the DNA in TE prior to the ad- dition of salt. 
+Alternatively, NaCI was added to the sample directly after phe- nol extraction thereby eliminating the need for two ethanol-precipitation steps. 
+The resulting DNA pellet was washed twice with 75% ethanol and dissolved in TE.
+
+DNA用TE 100uL回溶
+C1V1 = C2V2
+Cstock × VNaCl = 2.0 M × (100 µL + VNaCl)
+
+如果用 4 M NaCl
+4V = 2(100 + V)
+4V = 200 + 2V
+2V = 200
+V = 100 µL
+加100 µL 4 M NaCl最後體積是200uL, final conc. of NaCl=2.0M
+
+如果用 5 M NaCl
+5V = 2(100 + V)
+5V = 200 + 2V
+3V = 200
+V = 66.7 µL
+所以加5M NaCl 66.7 µL進去，最後體積166.7 µL, final conc. of NaCl=2.0 M
+
+
+將 DNA pellet 完全溶解於 100 µL TE buffer 中。確認 DNA 完全溶解後，加入 66.7 µL 的 5 M NaCl，使 NaCl 最終濃度達到 2.0 M，輕輕 pipette 數次混合均勻。
+
+接著加入 417 µL 的 100% ethanol，輕輕上下顛倒混合，使 DNA 重新沉澱。將樣品置於 −20°C incubation 60 分鐘。
+
+Incubation 後，16,000 × g，4°C 離心 30 分鐘。小心移除上清液，避免擾動 DNA pellet。
+
+加入 500 µL 的 75% ethanol 清洗 pellet，輕輕上下顛倒數次後靜置5分鐘，然後以 16,000 × g，4°C 離心 5 分鐘。移除上清液後，再以 500 µL 的 75% ethanol 重複清洗一次，並以相同條件離心 5 分鐘。
+
+第二次清洗後，盡量移除殘留 ethanol。將 tube 開蓋放置於室溫，使 pellet 風乾 5 到 10 分鐘，上面要用錫箔紙蓋著。
+
+最後加入100uL TE buffer 溶解 DNA，於室溫放置 10 到 30 分鐘，或於 4°C 放置過夜以幫助完全溶解。
+
+
+Ethanol: 2.5× volume, 417 µL 100% ethanol
+Incubation: −20°C, 30～60 min
+Centrifugation: 16,000 × g, 4°C, 15–30 min
+Wash: 500 µL 75% ethanol, twice
+Wash spin: 16,000 × g, 4°C, 5 min each
+Air dry: 5–10 min
