@@ -95,8 +95,12 @@ https://onlinelibrary.wiley.com/doi/10.1155/2009/574398
 | ddH₂O | Up to 100 mL | Up to 500 mL | Up to 1000 mL | — |
 
 
-
-Mix for approximately 30 min to 1 hour.
+## 注意事項
+- 不建議一開始就先將粉末加入空瓶後再加水，因為 guanidine thiocyanate 用量很大，容易在底部結塊並形成高濃度粉泥，會使溶解變慢且不均勻。
+- 一開始也不要直接加入最終體積的 ddH₂O，否則加入粉末與其他試劑後會超過目標體積。
+- 建議先加入約50%最終體積的 ddH₂O，再慢慢加入粉末並攪拌至完全溶解，然後再補其他的，最後補水至目標體積。
+- 2-mercaptoethanol有毒要小心，最後加入，並在 fume hood 內操作。
+- 空瓶 → 加入約 50% 目標體積的 ddH₂O → 慢慢加入 guanidine thiocyanate 粉末並攪拌溶解 → 加入 N-lauroyl sarcosine sodium 粉末並攪拌溶解 → 加入 1 M Tris pH 8 → 最後在 fume hood 加入 2-mercaptoethanol 原液 → 用 ddH₂O 補至最終體積 → 混合 30 分鐘至 1 小時。
  
 ### 5 M NaCl stock, 100 mL
 1. NaCl 29.22 g
