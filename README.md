@@ -83,9 +83,6 @@ https://onlinelibrary.wiley.com/doi/10.1155/2009/574398
 ## Stock配方
 
 ### CHAOS配法
-# CHAOS solution
-
-
 | Reagent | 100 mL | 500 mL | 1000 mL | Final concentration |
 |---|---:|---:|---:|---:|
 | Guanidine thiocyanate powder | 50 g | 250 g | 500 g | 4 M |
