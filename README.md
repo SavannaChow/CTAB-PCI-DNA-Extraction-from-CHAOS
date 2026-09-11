@@ -24,21 +24,21 @@
 5. **incubation+ shake 60度C 1小時。**
 
 ### Step 3. 使用PCI來清理雜質(polysaccharide, portein, lipids等等)
-6. 加入**800uL**的PCI (Phenol:Chloroform:Isoamyl Alcohol, 25:24:1 ratio)。
-7. 蓋好蓋緊，然後放去TissueLyser的block裡混合，使用最低速3hz，1分鐘。或是你可以用手gently invert 3分鐘。使用TissueLyzer記得他的rack裡面要墊衛生紙，這樣才能壓緊蓋子不會漏出來。
-8. 離心**14000rpm for 5 min**，記得要常溫，不要開到低溫，Hitachi那台離心機設定成25度。不能用低溫離心，可能會造成多醣共沉澱。
-9. **換新的2.0 tube**，用pipette抽小心的取上層的水層出來到新的2.0 tube。快要接近中間那層的時候，**寧願留下一部分水層也不要抽到雜質為優先**。
-10. 再度加入**800uL**的PCI，TissueLyser 3Hz一分鐘或是用手gently invert 3分鐘，然後常溫離 **14000rpm for 5 min**
-11. 取出抽上層的水層到**新的1.5 tube**
-
+6. 加入**800uL**的PCI (Phenol:Chloroform:Isoamyl Alcohol, 25:24:1 ratio)，輕輕的慢慢的pipette數次混合均勻
+7. 常溫25度離心16000 rpm for 10 minutes
+8. 用pipette抽小心的取上層的水層：取出抽上層的水層到新的1.5 tube，抽600就好，不要貪心。記得要把tips尖端剪掉一小部分讓開口比較大去抽，這樣抽取水層時的流速才不會那麼快，這個真的有差，尤其是越靠近交界層越明顯。小技巧：把tube擺在燈管上方就能很清楚看到分界層，用200ul tip分次去抽，不要用1000的。
 ### Step 4. 準備析出DNA
-12. 加入2倍體積的Isopropanol，Mix gently (just turn over repeatedly), DNA will visually appear(通常啥都看不到,如果你看到一大坨白白的甚至有可能是多醣污染)。
-13. 離心14000rpm for 25 min，這部是讓高G值讓析出的DNA沉澱到管底。*eppendorf放進去離心機的時候蓋子的方向要一致，這樣DNA pellet才會在同一個位置沉澱。
-14. 離心完後倒掉isopropanol ，加**800 μl** 的**70% ethanol** for rinse，浸潤3分鐘吸收可能的殘留鹽分，然後再度離心**14000rmp 1分鐘**，然後倒掉ethanol。
-15. 這個70% ethanol步驟需要做total兩次來移除過量的鹽分。*記得eppendorf上離心機時的方向要跟上一個步驟一致，免得一離心DNA pellet就移位。
-16. 倒掉ethanol後，tube底部就是DNA。Air dry殘留的ethanol，ethanol會影響後面的PCR所以不能殘留，但是也不能過度乾燥，不然DNA會不好回溶。
-17. Add 100μl or 200uL of pre-heated TE(65度C)成為DNA stock。記得要給一點時間讓DNA溶解，不要立刻去測DNA。
-18. 跑膠檢查DNA quality：用0.8% Agarose / 100v 跑30分鐘。用 1uL的novel juice與2uL的DNA
+9. 加入70uL (1/10 volume)的3mol/L Sodium Acetate Buffer, 輕輕的慢慢的pipette數次混均勻(Na⁺ 中和 DNA 磷酸骨架的負電，讓 DNA 分子之間比較容易聚集)
+10. 再加入730uL Isopropanol, 不要pipette，蓋上蓋子輕輕的invert數次就好，如果DNA夠多你會看到白霧狀的東西，輕輕的水平晃動幾次後就會看到DNA析出 (降低水相的介電常數與 DNA 溶解度，讓已經被陽離子屏蔽電荷的 DNA 從溶液中析出)
+11. 放到-20冰箱1小時 (提高DNA被沉澱下來的機率)。實際測試擺過夜也可以，而且DNA總量會更多。一定要擺至少一小時，這步驟有做，DNA total quantity甚至可以大於3000ng(3μg)以上
+12. 離心 at 13000 rpm for 30 minutes in 4 degree Celsius
+13. 倒掉 ，輕輕加入600 μl 的70% ethanol 浸潤3分鐘吸收可能的殘留鹽分，要輕輕加，不然你很可能會把DNA pellets沖起來
+14. 13 000 rpm for 5 minutes in 4 degree Celsius
+15. 倒掉 ，再加600 μl 的70% ethanol 浸潤3分鐘吸收可能的殘留鹽分
+16. 13 000 rpm for 15 minutes in 4 degree Celsius
+17. 倒掉ethanol, 在tube上面輕輕蓋著錫箔紙防止污染，air dry殘留的ethanol到乾燥
+18. 加60uL的TE buffer回溶DNA，TE Buffer可以先preheat 65°C 。回溶後記得要給時間讓DNA溶解，不要立刻去測DNA。
+19. 跑膠檢查DNA quality：用0.8% Agarose / 100v 跑30分鐘。用 1uL的novel juice與2uL的DNA
 
 ### CHAOS+PEB比例
 (Final conc. 1.4M NaCl& 2% CTAB)
