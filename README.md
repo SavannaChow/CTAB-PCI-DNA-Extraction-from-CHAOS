@@ -85,19 +85,12 @@ https://onlinelibrary.wiley.com/doi/10.1155/2009/574398
 ### CHAOS配法
 # CHAOS solution
 
-| Reagent | 100 mL | 500 mL | 1000 mL |
-|---|---:|---:|---:|
-| 4 M Guanidine thiocyanate | 50 g | 250 g | 500 g |
-| 0.5% N-lauroyl sarcosine sodium | 0.5 g | 2.5 g | 5 g |
-| 1M Tris pH 8 Stock | 2.5 mL | 12.5 mL | 25 mL |
-| 2-mercaptoethanol | 0.7 mL | 3.5 mL | 7 mL |
-| ddH₂O | Up to 100 mL | Up to 500 mL | Up to 1000 mL |
 
 | Reagent | 100 mL | 500 mL | 1000 mL | Final concentration |
 |---|---:|---:|---:|---:|
 | Guanidine thiocyanate powder | 50 g | 250 g | 500 g | 4 M |
 | N-lauroyl sarcosine sodium powder | 0.5 g | 2.5 g | 5 g | 0.5% |
-| 1 M Tris pH 8 | 2.5 mL | 12.5 mL | 25 mL | 25 mM |
+| 1 M Tris pH 8 Stock | 2.5 mL | 12.5 mL | 25 mL | 25 mM |
 | 2-mercaptoethanol stock solution | 0.7 mL | 3.5 mL | 7 mL | 0.1 M |
 | ddH₂O | Up to 100 mL | Up to 500 mL | Up to 1000 mL | — |
 
